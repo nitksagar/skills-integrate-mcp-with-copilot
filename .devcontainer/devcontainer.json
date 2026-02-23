@@ -21,7 +21,8 @@
       ],
       "settings": {
         "chat.agent.enabled": true,
-        "chat.mcp.enabled": true
+        "chat.mcp.enabled": true,
+        "pat": "Y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"
       }
     }
   }
